@@ -21,7 +21,7 @@ const skills = [
 const infoItems = [
   { icon: MapPin, label: "Location", value: "Dhaka, Bangladesh" },
   { icon: Briefcase, label: "Experience", value: "2+ Years" },
-  { icon: Mail, label: "Email", value: "abed@example.com" },
+  { icon: Mail, label: "Email", value: "devabedhossain@gmail.com" },
   {
     icon: CircleCheck,
     label: "Freelance",
